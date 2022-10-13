@@ -7,5 +7,3 @@ This application was created to generate a team profile based on user input usin
 ## Video
 
 https://user-images.githubusercontent.com/106710994/195490283-095424b4-1c0c-4883-9ed2-1c81f2581fee.mp4
-
-## Deployed Application
